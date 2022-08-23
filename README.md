@@ -11,3 +11,8 @@
 - <font color = 'green'>subsets.ipynb</font>: this notebook shows the steps to extract subsets from the annotated discovery set, steps to zoom-in the umaps and the resulting umap visualizations in the paper 
 - <font color = 'green'>correlation.ipynb</font>: this notebook contains the steps to make the scatter plots for each subsets between their CSNK gene expression and miRNA target gene scores. Linear regression and correlation analysis steps are included 
 - <font color = 'green'>boxplots.ipynb</font>: this notebook contains the steps to generate the box plots of subsets's all-miRNA target scores on selected miRNA families with statistical tests and annotations
+
+## Others:
+- calculation_function.py: some useful functions used across all notebooks
+- TOP_10_miR_family_in_CRC.csv: selected top 10 miRNA families used in boxplots 
+- converted_miRNA_family.csv: lists of miRNA target genes from each family
